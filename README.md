@@ -29,9 +29,13 @@ E-commerce-Products/
 ## 1. Clone the repository:
 ```bash
 git clone https://github.com/Mona-Zedan/E-commerce-Products.git
-##  Live Demo
+
+
+## Live Demo
 https://mona-zedan.github.io/E-commerce-Products/
-## 🙋‍♀️ Author
+
+
+## Author  🙋‍♀️
 Mona Abd-El-Ghany Zedan
 🔗 LinkedIn
 💻 GitHub
