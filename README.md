@@ -26,9 +26,9 @@ E-commerce-Products/
 ├── main.js
 ├── images/
 └── README.md 
-## 1. Clone the repository:
-```bash
-git clone https://github.com/Mona-Zedan/E-commerce-Products.git
+## clone 
+git clone 
+ https://github.com/Mona-Zedan/E-commerce-Products.git
 
 
 ## Live Demo
