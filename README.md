@@ -36,6 +36,5 @@ https://mona-zedan.github.io/E-commerce-Products/
 
 
 ## Author  🙋‍♀️
-Mona Abd-El-Ghany Zedan
-🔗 LinkedIn
-💻 GitHub
+Mona Abd-El-Ghani Zedan
+
